@@ -29,4 +29,4 @@
 	---
 
 
-##### DailyStudyLog는 [Hacanna42](https://github.com/Hacanna42/acmicpc-study/tree/main/STUDY%20LOG, "GitHub link")님 일일 학습 다짐 기록**을 보고 영감을 받아 시작했습니다.
+##### DailyStudyLog는 [Hacanna42](https://github.com/Hacanna42/acmicpc-study, "GitHub link")님 일일 학습 다짐 기록**을 보고 영감을 받아 시작했습니다.
